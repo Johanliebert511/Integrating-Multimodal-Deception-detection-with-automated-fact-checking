@@ -37,8 +37,8 @@ Please see the ```requirements.txt``` for more details.
 
 - Note: If you would like access to the above datasets, please contact the authors who provided the dataset, respectively.
 ## GUI demo
-![image](https://github.com/come880412/Deception_detection/blob/main/img/Demo.png)
-![image](https://github.com/come880412/Deception_detection/blob/main/img/audio.png)
+![image](https://github.com/Johanliebert511/Integrating-Multimodal-Deception-detection-with-automated-fact-checking/blob/main/img/Demo.png)
+![image](https://github.com/Johanliebert511/Integrating-Multimodal-Deception-detection-with-automated-fact-checking/blob/main/img/audio.png)
 ## Inference
 ```python=
 python lie_GUI.py
