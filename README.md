@@ -1,5 +1,4 @@
-# Deception detection (Pytorch)
-ICSSE 2020 : Face Expression and Tone of Voice for Deception System (Award of best student paper)
+# Integrating-Multimodal-Deception-detection-with-automated-fact-checking (Pytorch)
 
 ## Flowchart of deception detection
 The overall flowchart for deception detection is illustrated below. We combine many features into a vector and then apply SVM to classification.
@@ -19,6 +18,7 @@ Our deception detection system comprises four parts：
 2. Emotion Unit
 3. Action Unit
 4. Emotion Audio unit
+5. Fact checking unit
 
 ### Install Packages
 Please see the ```requirements.txt``` for more details.
@@ -38,8 +38,8 @@ Please see the ```requirements.txt``` for more details.
 - Note: If you would like access to the above datasets, please contact the authors who provided the dataset, respectively.
 ## GUI demo
 ![image](https://github.com/come880412/Deception_detection/blob/main/img/Demo.png)
+![image](https://github.com/come880412/Deception_detection/blob/main/img/audio.png)
 ## Inference
 ```python=
 python lie_GUI.py
 ```
-- If you have any implementation problem, feel free to E-mail me! come880412@gmail.com
